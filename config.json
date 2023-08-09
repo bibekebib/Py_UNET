@@ -1,0 +1,33 @@
+{
+    "DataLoader":{
+        "csv":"True", 
+        "csv_path":"outputs/test.csv",
+        "csv_train_path":"", 
+        "csv_test_path":"",
+        "Image_folder":"False",
+        "image_folder_path":"",
+        "Split":"True"
+    },
+    "Data":{
+        "NChannels":3,
+        "Height":256,
+        "Width":256
+    },
+    "Model":{
+        "Train_Batch_size":16,
+        "Test_Batch_size":8,
+        "Optimizer":"Adam",
+        "learning_rate":1e-3,
+        "epochs":5
+    },
+    "Misc":{
+        "Generate_log":"True",
+        "Generate_plot":"True",
+        "Generate_report":"True",
+        "report_path":"outputs/report/summary_log.md"
+    },
+    "Report":{
+        "EdenAI_API_Key":"",
+        "output_folder":"outputs/report/project_report.md"
+    }
+}
