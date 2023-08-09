@@ -5,8 +5,6 @@ A UNET Architecture designed in PyTorch for image segmentation.
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
 
 ## About <a name = "about"></a>
 
