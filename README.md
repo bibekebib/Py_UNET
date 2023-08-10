@@ -114,7 +114,7 @@ After configuring `config.json` file, you can simple run `run.py` file and if yo
 python3 run.py
 ```
 
-### Let le give you a cool thing about this tool.
+### Let me tell you a cool thing about this tool.
 This generates a boiler plate for the research paper for you.
 You can use it as your own boilerplate or just copy paste and modify according to your needs.
 Just head over to `outputs/reports/project_report.md` and see a generated report paper just crafted by you.
